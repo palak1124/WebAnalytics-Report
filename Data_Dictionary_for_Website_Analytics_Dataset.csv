@@ -1,0 +1,11 @@
+Column Name,Description,Data Type
+Date,The date of the website visit.,Date
+User ID,Unique identifier for the user visiting the website.,String
+Page Views,Number of pages viewed during the session.,Integer
+Session Duration (sec),Duration of the session in seconds.,Integer
+Traffic Source,"The source of traffic that brought the user to the website (e.g., Organic Search, Social Media, Direct).",String
+Device Type,"Type of device used by the user (e.g., Mobile, Desktop, Tablet).",String
+Browser,"Web browser used during the session (e.g., Chrome, Firefox, Edge).",String
+Country,Country from which the user accessed the website.,String
+Bounce Rate (%),The percentage of users who visited only one page before leaving the site.,Integer
+Conversion,"Indicates if a conversion occurred during the session (1 for conversion, 0 for no conversion).",Integer
